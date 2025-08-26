@@ -2,7 +2,8 @@
 
 [[toc]]
 
-## Start Shizuku
+## Start Shizuku. chou
+ajxbzk
 
 Shizuku supports startup in the following three ways.
 
